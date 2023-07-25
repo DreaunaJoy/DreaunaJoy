@@ -1,6 +1,12 @@
 ### 
 
 
+![github-header-image](https://github.com/DreaunaJoy/dreaunajoy/assets/120230462/ef5e0a6b-03ce-4a57-b42e-83265e2b0f11)
+
+
+
+
+
 
 <h1 align="center">Hi, I'm Dreauna! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა</h1>
 <h3 align="center">A passionate Software Developer from San Francisco</h3>
