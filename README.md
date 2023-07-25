@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi, I'm Dreauna! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა</h1>
+<h1 align="center">Hi, there! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა</h1>
 <h3 align="center">A passionate Software Developer from San Francisco</h3>
 
 
