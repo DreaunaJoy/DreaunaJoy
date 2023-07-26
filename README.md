@@ -1,7 +1,7 @@
 ### 
 
 
-![github-header-image (2)](https://github.com/DreaunaJoy/dreaunajoy/assets/120230462/4826b791-170a-4f13-8e61-90d3aa735b68)
+![github-header-image (1)](https://github.com/DreaunaJoy/dreaunajoy/assets/120230462/995a2f98-9885-4191-b15c-85ae6ea5b858)
 
 
 
